@@ -25,6 +25,8 @@
 		</plugins>
 	</build>
 
+
+<!-- hello -->
 	<dependencies>
 		<!-- The Java EE 7 API, which is the main and only API which this project 
 			is providing samples for. -->
